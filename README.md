@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karthicka</h1>
 <h3 align="center">A motivated computer science student eager to leverage my skills.</h3>
 
-- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **karthickab29@gmail.com**
 
